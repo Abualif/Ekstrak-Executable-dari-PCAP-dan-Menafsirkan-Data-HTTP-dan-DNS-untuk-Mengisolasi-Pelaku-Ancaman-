@@ -1,0 +1,1 @@
+# Ekstrak-Executable-dari-PCAP-dan-Menafsirkan-Data-HTTP-dan-DNS-untuk-Mengisolasi-Pelaku-Ancaman-
